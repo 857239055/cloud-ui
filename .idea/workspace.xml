@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -23,6 +30,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="E:\stdproject\cloud-ui\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +44,10 @@
       <workItem from="1627474902522" duration="1084000" />
       <workItem from="1627565202349" duration="1407000" />
       <workItem from="1627570518701" duration="655000" />
-      <workItem from="1627571181914" duration="1450000" />
+      <workItem from="1627571181914" duration="1830000" />
+      <workItem from="1627650922998" duration="3171000" />
+      <workItem from="1627698170746" duration="602000" />
+      <workItem from="1627724255768" duration="959000" />
     </task>
     <servers />
   </component>
