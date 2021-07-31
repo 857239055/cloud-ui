@@ -11,6 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -24,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -47,7 +50,7 @@
       <workItem from="1627571181914" duration="1830000" />
       <workItem from="1627650922998" duration="3171000" />
       <workItem from="1627698170746" duration="602000" />
-      <workItem from="1627724255768" duration="2242000" />
+      <workItem from="1627724255768" duration="4920000" />
     </task>
     <servers />
   </component>
