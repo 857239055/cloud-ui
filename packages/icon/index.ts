@@ -1,8 +1,9 @@
 import Icon from './src/icon.vue'
-import {createApp} from "vue";
+import {App} from "vue";
 
-Icon.install = () => {
-
+Icon.install = (app: App) => {
+    app.component(Icon.name, Icon)
 }
-
-createApp({}).use(Icon)
+type IWithInstall<T> = T & { install(app: App): void }
+const _Icon: IWithInstall<typeof Icon> = Icon;
+export default _Icon;
