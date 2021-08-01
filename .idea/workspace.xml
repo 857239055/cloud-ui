@@ -13,6 +13,7 @@
         <option value="TypeScript File" />
         <option value="Vue Single File Component" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,7 +51,8 @@
       <workItem from="1627571181914" duration="1830000" />
       <workItem from="1627650922998" duration="3171000" />
       <workItem from="1627698170746" duration="602000" />
-      <workItem from="1627724255768" duration="4920000" />
+      <workItem from="1627724255768" duration="5266000" />
+      <workItem from="1627786609114" duration="926000" />
     </task>
     <servers />
   </component>
