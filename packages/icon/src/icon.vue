@@ -1,5 +1,5 @@
 <template>
-  <span>icon</span>
+  <i class="cl-icon-loading">icon</i>
 </template>
 
 <script lang="ts">
